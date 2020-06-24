@@ -1,2 +1,1 @@
-# proj01
-Project 01: HTTP proxy
+A simple proxy using Python Sockets
